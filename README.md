@@ -1,4 +1,4 @@
-# Fast Fourier Transform applied to find out periodic orbits
+# Fast Fourier Transform applied to find periodic orbits
 
 To learn a little bit more about fft.
 
